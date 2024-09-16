@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.anshul.sales.TaxApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.449 s -- in com.anshul.sales.TaxApplicationTests
